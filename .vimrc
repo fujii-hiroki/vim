@@ -14,6 +14,8 @@ set laststatus=2
 
 set undolevels=9999999
 
+set iskeyword+=-
+
 "タブを表示
 set list
 set listchars=tab:>-
